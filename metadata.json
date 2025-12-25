@@ -1,0 +1,8 @@
+{
+  "name": "Soraia Psicologia & Neuropsicologia",
+  "description": "Professional landing page and management dashboard for Soraia, clinical psychologist and neuropsychologist. Features client management, scheduling, financial tracking, and AI-powered patient retention.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
