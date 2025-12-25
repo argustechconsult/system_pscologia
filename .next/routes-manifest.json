@@ -71,6 +71,12 @@
       "namedRegex": "^/admin/schedule(?:/)?$"
     },
     {
+      "page": "/api/generate-message",
+      "regex": "^/api/generate\\-message(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/generate\\-message(?:/)?$"
+    },
+    {
       "page": "/login",
       "regex": "^/login(?:/)?$",
       "routeKeys": {},
