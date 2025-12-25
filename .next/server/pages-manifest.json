@@ -1,0 +1,15 @@
+{
+  "/": "pages/index.html",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/_error": "pages/_error.js",
+  "/admin": "pages/admin.html",
+  "/admin/clients": "pages/admin/clients.html",
+  "/admin/finance": "pages/admin/finance.html",
+  "/admin/kanban": "pages/admin/kanban.html",
+  "/admin/reports": "pages/admin/reports.html",
+  "/admin/retention": "pages/admin/retention.html",
+  "/admin/schedule": "pages/admin/schedule.html",
+  "/login": "pages/login.html",
+  "/404": "pages/404.html"
+}
