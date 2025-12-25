@@ -113,8 +113,8 @@ const AdminLayout: React.FC<AdminLayoutProps> = ({ onLogout, children }) => {
             </div>
             <div className="relative">
               <img
-                src="https://picsum.photos/seed/soraia/100"
-                className="w-11 h-11 rounded-full border-2 border-teal-500 shadow-lg p-0.5"
+                src="/logo.png"
+                className="w-11 h-11 rounded-full border-2 border-teal-500 shadow-lg p-0.5 object-cover"
                 alt="Soraia"
               />
               <div className="absolute bottom-0 right-0 w-3.5 h-3.5 bg-green-500 border-2 border-white rounded-full"></div>

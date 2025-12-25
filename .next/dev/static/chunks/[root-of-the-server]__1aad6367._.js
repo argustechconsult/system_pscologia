@@ -695,8 +695,8 @@ const AdminLayout = ({ onLogout, children })=>{
                                         className: "relative",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                src: "https://picsum.photos/seed/soraia/100",
-                                                className: "w-11 h-11 rounded-full border-2 border-teal-500 shadow-lg p-0.5",
+                                                src: "/logo.png",
+                                                className: "w-11 h-11 rounded-full border-2 border-teal-500 shadow-lg p-0.5 object-cover",
                                                 alt: "Soraia"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/AdminLayout.tsx",
